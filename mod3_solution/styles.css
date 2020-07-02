@@ -32,10 +32,15 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: .15;
+
+
+
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+
+
 
 #nav-list {
   margin-top: 0;
@@ -47,7 +52,9 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   border-top: 1px solid #61122f;
-}
+
+ }
+
 #nav-list a {
   color: #951C4f;
   text-align: center;
@@ -58,12 +65,19 @@ body {
 #nav-list a span {
   font-size: 1.2em;
   margin-bottom: 0;
+
 }
+
 #collapsable-nav {
     border-width: 1px;
     border-color: #61122f;
     margin-bottom: -15px;
-}
+
+
+  }
+
+
+
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 3px solid #61122f;
 }
@@ -88,10 +102,16 @@ h2 {
   margin-bottom: 15px;
 
 }
+
   #section-content h3{
   margin-top: 5px;
 }
+
 /* END CONTENT */
+
+
+
+
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
@@ -99,7 +119,10 @@ h2 {
    #section-content {
 
   height: 270px;
+
 }
+
+
 }
 
 /********** Medium devices only **********/
@@ -110,7 +133,10 @@ h2 {
   height: 320px;
 
 }
+
   }
+
+
 
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
@@ -120,6 +146,7 @@ h2 {
   height: 400px;
 
 }
+
 }
 
 /********** Extra small devices only **********/
@@ -134,4 +161,6 @@ h2 {
     font-size: 2em;
     line-height: .95;
   }
+
+
 }
